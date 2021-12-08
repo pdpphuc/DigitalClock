@@ -1,0 +1,1 @@
+pyinstaller DigitalClock_GUI.py --onefile -w --icon=icons8-digital-clock-96.ico

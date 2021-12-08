@@ -1,0 +1,4 @@
+foreground:#ff0080
+background:#00ff00
+time_format:24h
+playsound_eventime:True
